@@ -1,12 +1,11 @@
 ### Hi, I'm Victor Costa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I’m a Software Engineer. Currently I'm working as a Web and Mobile Developer at [**SENSEUP**](https://senseup.tech/site/). 🚀
+I’m a Software Engineer. Currently I'm working as a Java Developer at [**SENSEUP**](https://senseup.tech/site/). 🚀
 
-#### My current tools 
-📲 Front-end Mobile with React Native  
-🌎 Front-end Web with Reactjs  
-📡 Back-end with Nodejs  
-🛠️ Typescript  
+#### My current tools   
+🌎 Java  
+📡 Back-end with Spring Boot  
+🛠️ SQL, Docker, Kubernetes, JUnit, Hibernate, CI/CD  
 🧰 And more...  
 
 
